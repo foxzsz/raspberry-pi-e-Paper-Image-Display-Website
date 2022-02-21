@@ -1,5 +1,5 @@
 # e-Paper-Image-Display-Website
-Raspberry Pi image display using Waveshare e-paper 2.7 inch display.
+Raspberry Pi image display website using Waveshare e-paper 2.7 inch display.
 
 # Features
 
