@@ -8,3 +8,11 @@ Raspberry Pi image display using Waveshare e-paper 2.7 inch display.
 - Process images to correct height before displaying
 - Use queues to ensure each image gets displayed
 - Displays queue information on website
+
+# Tutorial
+
+1. Clone or download the repository
+2. Install the required modules using pip3 install -r requirements.txt
+3. Run the main.py file
+4. Open the website on the address 0.0.0.0:5000 
+5. Approve and decline images by using the Tkinter window
