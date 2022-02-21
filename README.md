@@ -16,3 +16,6 @@ Raspberry Pi image display using Waveshare e-paper 2.7 inch display.
 3. Run the main.py file
 4. Open the website on the address 0.0.0.0:5000 
 5. Approve and decline images by using the Tkinter window
+
+# Credits
+12-sridhar(https://github.com/12-sridhar) - Helping code the project with me 
