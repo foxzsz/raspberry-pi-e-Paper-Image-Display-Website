@@ -18,4 +18,4 @@ Raspberry Pi image display using Waveshare e-paper 2.7 inch display.
 5. Approve and decline images by using the Tkinter window
 
 # Credits
-![12-sridhar](https://github.com/12-sridhar) - Helping code the project with me 
+[12-sridhar](https://github.com/12-sridhar) - Helping code the project with me 
