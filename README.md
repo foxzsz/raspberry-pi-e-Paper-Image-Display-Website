@@ -1,5 +1,7 @@
 # e-Paper-Image-Display-Website
 Raspberry Pi image display website using Waveshare e-paper 2.7 inch display.
+![image](https://user-images.githubusercontent.com/82937328/154991286-27bc96e1-8f54-427f-a07c-06bd6431e48a.png)
+
 
 # Features
 
