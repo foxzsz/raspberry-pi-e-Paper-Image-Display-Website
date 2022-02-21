@@ -31,7 +31,7 @@ cd ~
 git clone https://github.com/waveshare/e-Paper
 git clone https://github.com/foxzsz/e-Paper-Image-Display-Website
 ```
-Move to the `e-Paper-Image-Display-Website` directory, copy the required part of waveshare epd to directory ` 
+Move to the `e-Paper-Image-Display-Website` directory, copy the required part of waveshare epd to directory 
 ```
 cd e-Paper-Image-Display-Website
 cp -r /home/pi/e-Paper/RaspberryPi_JetsonNano/python/lib/waveshare_epd .
