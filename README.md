@@ -55,7 +55,7 @@ If approval of images is enabled ensure that you are connected via VNC Viewer or
 
 ## Connecting from other devices on local network
 Use the ip address of the raspberry pi in the url and add :5000 at the end of the url. 
-For example, your raspberry pi ip address is `192.168.160.254` then your url would look like `http://192.168.160.254:5000`
+For example, your raspberry pi ip address is `192.168.160.254` then your url would look like `http://192.168.160.254:5000`. Find out the ip address using `ip config` on your terminal
 
 # Credits
 [12-sridhar](https://github.com/12-sridhar) - Helping code the project with me 
