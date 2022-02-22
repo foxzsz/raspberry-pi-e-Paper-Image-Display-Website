@@ -61,7 +61,7 @@ For example, your raspberry pi ip address is `192.168.160.254` then your url wou
 Find out the ip address using `ip config` on your terminal
 
 ## Limitations
-Images are resized, then can look ugly sometimes
+Images are resized, they can look ugly sometimes
 
 Images display as black and white.
 
