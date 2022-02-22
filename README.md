@@ -53,7 +53,7 @@ If run successfully it will output that the Flask Webapp is running. To visit th
 
 If approval of images is enabled ensure that you are connected via VNC Viewer or have the Tkinter window open to approve and decline images.
 
-## Connecting from other devices on local network
+## Connecting to the website from other devices on local network
 Use the ip address of the raspberry pi in the url and add :5000 at the end of the url. 
 
 For example, your raspberry pi ip address is `192.168.160.254` then your url would look like `http://192.168.160.254:5000`.
