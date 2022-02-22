@@ -187,6 +187,7 @@ class ImageDisplayWeb:
                 # Just to check if the program tried to display the image
                 print(f"Successfully displayed image {imagename}")
             except Exception as e:
+                print(f"Error: {e}") # Prints the problem
                 continue
 
 
