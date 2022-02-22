@@ -51,7 +51,7 @@ python3 main.py
 ```
 If run successfully it will output that the Flask Webapp is running. To visit the website open the browser and enter 0.0.0.0:5000
 
-If approval of images is enabled ensure that you are connected via VNC Viewer or have the Tkinter window open to approve and decline images.
+If approval of images is enabled ensure that you are connected via `VNC Viewer` or have the Tkinter window open using `MobaXterm` to approve and decline images.
 
 ## Connecting to the website from other devices on local network
 Use the ip address of the raspberry pi in the url and add :5000 at the end of the url. 
