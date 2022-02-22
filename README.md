@@ -62,4 +62,5 @@ Find out the ip address using `ip config` on your terminal
 
 # Credits
 [foxzsz](https://github.com/foxzsz) - Creating the code to run the website
+
 [12-sridhar](https://github.com/12-sridhar) - Creating the code to display images on tkinter and on e-paper
