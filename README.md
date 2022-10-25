@@ -69,4 +69,4 @@ Images display as black and white.
 # Credits
 [foxzsz](https://github.com/foxzsz) - Creating the python code and html to run the website
 
-[12-sridhar](https://github.com/12-sridhar) - Creating the code to display images on tkinter and on e-paper
+[ss3387](https://github.com/ss3387) - Creating the code to display images on tkinter and on e-paper
